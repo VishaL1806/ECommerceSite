@@ -1,0 +1,8 @@
+export {default as Home} from './Home'
+export {default as Authentication} from './Authentication'
+export {default as Wishlist} from './Wishlist'
+export {default as Account} from './Account'
+export {default as ContactUs} from './ContactUs'
+export {default as About} from './About'
+export {default as Cart} from './Cart'
+export {default as ProductDetail} from './ProductDetail'
